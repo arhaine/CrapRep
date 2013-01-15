@@ -1,6 +1,6 @@
 ﻿provider: youtube
 link:
-  en: ...
+  en: vYq4lMD-dDI
   ru: vYq4lMD-dDI
   uk: vYq4lMD-dDI
 
