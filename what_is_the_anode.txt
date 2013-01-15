@@ -20,7 +20,7 @@ title:
 
 description:
   en: |
-    NEED TRANSLATION
+    Physics. What is the anode? The anode is usually called electrically positive pole of the current source, or an electrode of the device, connected to the positive pole of the power source.
    
   ru: |
    Физика. Что такое анод? Анодом обычно называют электрически положительный полюс источника тока или электрод некоторого прибора, присоединенный к положительному полюсу источника питания. 
