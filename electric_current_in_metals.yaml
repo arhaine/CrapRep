@@ -1,0 +1,29 @@
+provider: youtube
+link:
+  en: ClGV57ELcI0
+  ru: ClGV57ELcI0
+  uk: ClGV57ELcI0
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Electric current in metals. Current direction
+  ru: Электрический ток в металлах. Направление тока
+  uk: Електричний струм в металах. Напрямок струму
+
+description:
+  en: |
+    How to create an electric current in a metal conductor. The structure of the metal conductor and the movement of electrons inside it. 
+    The velocity of propagation of the electric field in the conductor. Effects of electric current.
+    
+  ru: |
+    Как создается электрический ток в металлических проводниках. Структура металлического проводника и движение электронов внутри него. 
+    Скорость распространения электрического поля в проводнике. Действия электрического тока.
+
+  uk: |
+    Як створюється електричний струм у металевих провідниках. Структура металевого провідника та рух електронів у ньому. 
+    Швидкість поширення електричного поля в провіднику. Дії електричного струму.

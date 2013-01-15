@@ -1,0 +1,27 @@
+provider: youtube
+link:
+  en: EU7ZAml7c2Q
+  ru: qSaWyhQF-dQ
+  uk: qSaWyhQF-dQ
+
+languages:
+  - ru
+  - en
+
+categories:
+  default: 1
+
+title:
+  en: Universe. Mercury and Venus
+  ru: Вселенная. Меркурий и Венера
+  uk: Всесвіт. Меркурій та Венера
+
+description:
+  en: |
+    A documentary about first two planets orbiting the Sun. It describes the surface of Venus and Mercury, answers the question why Venus was called Earth's "sister" planet and why the studying of greenhouse gases on it gave way to the discovery of the greenhouse effects here on Earth.
+    
+  ru: |
+    Документальный фильм о первых двух планетах вращающихся вокруг Солнца. Он описывает поверхности Венеры и Меркурия, отвечает на вопрос почему Венеру называли "сестрой" Земли и почему изучение парниковых газов на ее поверхности привело к открытию парникового эффекта на Земле.
+
+  uk: |
+    Документальний фільм про перші дві планети, що обертаються навколо Сонця. Він описує поверхні Венери та Меркурія, відповідає на питання чому Венеру назівали "сестрою" Землі і чому вивчення парникових газів на її поверхні привело до відкриттся парникового єфекту на Землі.

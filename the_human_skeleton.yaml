@@ -1,0 +1,27 @@
+﻿provider: youtube
+
+link:
+  en: hiDcf5SQLRA
+  ru: hiDcf5SQLRA
+  uk: hiDcf5SQLRA
+
+languages:
+  - en
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: The human skeleton
+  ru: Скелет человека
+  uk: Скелет людини
+
+description:
+  en: |
+    The structure of the human skeleton.
+  ru: |
+    Строение скелета человека.
+  uk: |
+    Будова скелету людини.

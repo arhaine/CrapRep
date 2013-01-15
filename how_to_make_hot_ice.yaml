@@ -1,0 +1,29 @@
+provider: youtube
+
+link:
+  en: aC-KOYQsIvU
+  ru: aC-KOYQsIvU
+  uk: aC-KOYQsIvU
+
+languages:
+  - en
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: How to make Hot Ice
+  ru: Как сделать горячий лед
+  uk: Як зробити гарячий лід
+
+description:
+  en: |
+    Crazy experiment turning a liquid to a solid with just a touch.
+  ru: |
+    Удивительный эксперимент превращения жидкости в твердое тело всего одним прикосновением.
+  uk: |
+    Дивовижний експеримент перетворення рідини в тверде тіло всього одним дотиком.
+
+ 

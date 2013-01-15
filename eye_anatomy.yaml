@@ -1,0 +1,29 @@
+﻿provider: youtube
+link:
+  en: b9Tc17jfcQw
+  ru: b9Tc17jfcQw
+  uk: b9Tc17jfcQw
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+
+title:
+  en: How does the human eye work?
+  ru: Как работает глаз человека?
+  uk: Як працює око людини?
+
+description:
+  en: |
+    Human biology. The eye is an organ that detects light and sends signals along the optic nerve to the brain. 
+    In humans, the eye is a valuable sense organ that gives us the ability to see. 
+    Anatomy of the eye, its pupil, iris, cornea, retina, vitreous humour, lens, ciliary body and the optic nerve.
+  ru: |
+    Биология человека. Глаз человека — парный сенсорный орган человека, обладающий способностью воспринимать свет и обеспечивающий функцию зрения.  
+    Анатомия глаза, строение и функции его структурных элементов, зрачка, радужой оболочки, роговицы, сетчатки, стелковидного тела, хрусталика, целиарного(ресничного) тела и оптического нерва.
+  uk: |
+    Біологія людини. Око - парний сенсорний орган людини і тварин, що здатний сприймати світло в видимому діапазоні і забезпечує функцію зору. 
+    Анатомія ока людини, будова і функції його структурних єлементів, зіниці, райдужної оболонки, рогівки, сітачтки, скловидного тіла, кришталика, целіарного(війчатого) тіла і оптичного нерва.

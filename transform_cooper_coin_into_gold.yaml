@@ -1,0 +1,28 @@
+provider: youtube
+
+link:
+  en: tudK7burIDM
+  ru: tudK7burIDM
+  uk: tudK7burIDM
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Transform a copper coin into gold
+  ru: Превращаем медную монету в золотую
+  uk: Перетворюємо мідну монету на золоту
+
+description:
+  en: |
+    This beautiful experience shows how you can turn an ordinary copper coins into "gold."
+  ru: |
+    Этот красивый опыт показывает, как можно превратить обыкновенную медную монету в "золотую".
+  uk: |
+    Цей красивий досвід показує, як можна перетворити звичайну мідну монету на "золоту".
+

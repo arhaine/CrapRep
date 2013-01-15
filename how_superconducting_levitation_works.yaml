@@ -1,0 +1,28 @@
+provider: youtube
+link:
+  en: d3zn7bj4jF0
+  ru: d3zn7bj4jF0
+  uk: d3zn7bj4jF0
+
+languages:
+  - en
+  - ru
+
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: How Superconducting Levitation Works
+  ru: Как работает электромагнитная левитация в условиях сверхпроводимости 
+  uk: Як працює електромагнітна левітація в умовах надпровідності
+
+description:
+  en: |
+    Superconductivity is a phenomenon of exactly zero electrical resistance and expulsion of magnetic fields occurring in certain materials when cooled below a characteristic critical temperature.
+
+  ru: |
+    Сверхпроводи́мость — свойство некоторых материалов обладать строго нулевым электрическим сопротивлением при достижении ими температуры ниже определённого значения (критическая температура).
+
+  uk: |
+    Надпровідність - властивість деяких матеріалів мати нульовий електричний опір, за досягнення ними певної температури(критична температура).

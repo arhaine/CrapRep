@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: DNlLnaJiGY8
+  ru: DNlLnaJiGY8
+  uk: DNlLnaJiGY8
+
+languages:
+  - en
+
+categories:
+  default: 1
+
+title:
+  en: What if other planets replaced the Moon?
+  ru: Что если бы другие планеты заменили Луну?
+  uk: Що буде, якщо інші планети замінять Місяць
+
+description:
+  en: |
+    The Moon orbits Earth at 380000 kilometers. What would the Earth's sky look like if the Moon was replaced with other planets of our solar system? Watch and find out!
+  ru: |
+    Луна находится на орбите вокруг Земли на расстоянии в 380000 километров. 
+    Как бы выглядело небо Земли, если вместо Луны в нем будут другие планеты нашей солнечной системы? Посмотри и узнай!
+  uk: |
+    Місяць знаходиться на земній орбіті на відстані 380000 кілометрів. 
+    Як би виглядало небо Землі, якщо б замість Місяця в ньому були інші планети нашої сонячної системи? Подивись і дізнайся!

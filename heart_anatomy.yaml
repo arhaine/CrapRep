@@ -1,0 +1,35 @@
+﻿provider: youtube
+link:
+  en: oZ1_TAwCUWw
+  ru: oAPpoTXBV1Q
+  uk: oAPpoTXBV1Q
+
+languages:
+  - ru
+  - en
+
+categories:
+  default: 1
+  biology: 1
+  # в биологии нет такой категории
+  #organic: 1
+
+title:
+  en: How does the human heart work?
+  ru: Как работает сердце человека?
+  uk: Як працює серце людини?
+
+description:
+  en: |
+    Human biology. The heart is a hollow muscle that pumps blood throughout the blood vessels by repeated, rhythmic contractions. 
+    Anatomy of the human heart, its atriums and ventricles and valves. The role of the coronary arteries. 
+    The origin of the coronary artery disease. The electrical system of the heart.
+   
+  ru: |
+    Биология человека. Се́рдце — фиброзно-мышечный орган, обеспечивающий ток крови по кровеносным сосудам. 
+    Анатомия сердца человека, его передсердий, желудочков и клапанов. Роль коронарных артерий. 
+    Причина ишемической болезни сердца. Строение проводящей системы сердца.
+
+  uk: |
+    Біологія людини. Серце - центральний орган кровоносної системи тварин і людини, що нагнітає кров в артеріальну систему і забезпечує рух її по судинах. 
+    Анатомія серця людини, його передсердь, шлуночків та клапанів. Роль коронарних артерій. Причина ішемічної хвороби серця. Будова провідної системи серця.

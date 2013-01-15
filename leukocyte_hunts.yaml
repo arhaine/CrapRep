@@ -1,0 +1,27 @@
+provider: youtube
+
+link:
+  en: f53xIZgOQqY
+  ru: f53xIZgOQqY
+  uk: f53xIZgOQqY
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: The leukocyte hunts for a bacterium
+  ru: Лейкоцит охотится за бактерией
+  uk: Лейкоцит полює на бактерію
+
+description:
+  en: |
+    The leukocyte hunts for a bacterium.
+  ru: |
+    Лейкоцит охотится за бактерией.
+  uk: |
+    Лейкоцит полює на бактерію.

@@ -1,0 +1,30 @@
+﻿provider: youtube
+link:
+  en: PLB3954EC6D0E32305
+  ru: PLB3954EC6D0E32305
+  uk: PLB3954EC6D0E32305
+
+languages:
+  - en
+  - ru
+  - uk
+
+categories:
+  default: 1
+  physics: 1
+  inorganic: 1
+
+title:
+  en: Electrons, Protons And Neutrons. Standard Model Of Particle Physics
+  ru: Электроны, протоны и нейтроны. Стандартная модель физики элементарных частиц
+  uk: Електрони, протони і нейтрони. Стандартна модель фізики елементарних часток
+
+description:
+  en: |
+    The Standard Model of particle physics is a theory concerning the electromagnetic, weak, and strong nuclear interactions, which mediate the dynamics of the known subatomic particles.
+   
+  ru: |
+    Физика. Стандартная модель — теоретическая конструкция в физике элементарных частиц, описывающая электромагнитное, слабое и сильное взаимодействие всех элементарных частиц. 
+
+  uk: |
+    Фізика. Стандартна модель — теоретична конструкція у фізиці елементарних часток, що описує електромагнітну, слабку і сильну взаємодію всіх елементарних часток. 

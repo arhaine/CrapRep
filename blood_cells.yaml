@@ -1,0 +1,27 @@
+provider: youtube
+
+link:
+  en: uvy9-9wTpf8
+  ru: uvy9-9wTpf8
+  uk: uvy9-9wTpf8
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: Blood cells
+  ru: Клетки крови
+  uk: Клітини крові
+
+description:
+  en: |
+    There is training video with tests about the three types of blood cells: erythrocytes, leukocytes, platelets.
+  ru: |
+    Учебный фильм с контрольними вопросами о трех типах клеток крови: еритроцитах, лейкоцитах, тромбоцитах.
+  uk: |
+    Учбовий фільм з контрольними запитаннями про три види клітин крові: еритроцити, лейкоцити, тромбоцити.

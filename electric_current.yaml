@@ -1,0 +1,30 @@
+provider: youtube
+link:
+  en: Njxj9hFhWDI
+  ru: Njxj9hFhWDI
+  uk: Njxj9hFhWDI
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Electric current. Sources of electric current
+  ru: Электрический ток. Источники электрического тока
+  uk: Електричний струм. Джерела електричного струму
+
+description:
+  en: |
+    Electric current - directed, orderly movement of electric charges.
+    Conditions under which the existence of an electric current is possible. 
+    Types of sources of electric current.
+    
+  ru: |
+    Электрический ток - направленное, упорядоченное движение электрических зарядов. 
+    Условия, при которых возможно существование электрического тока. Виды источников электрического тока.
+
+  uk: |
+    Електричний струм - спрямований, впорядкований рух електричних зарядів.
+    Умови, при яких можливе існування електричного струму. Види джерел електричного струму.

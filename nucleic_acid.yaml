@@ -1,0 +1,27 @@
+﻿provider: youtube
+link:
+  en: 6QzTMHybE1k
+  ru: 6QzTMHybE1k
+  uk: 6QzTMHybE1k
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+
+title:
+  en: PNucleic acids in protein biosynthesis
+  ru: Нуклеиновые кислоты в биосинтезе белка
+  uk: Нуклеїнові кислоти в біосинтезі білка
+
+description:
+  en: |
+    NEED TRANSLATION
+   
+  ru: |
+    Биология. Генетика. Биосинтез белка. Нуклеиновые кислоты. ДНК. Транскрипция. Информационная РНК (иРНК). Рибосома. 
+
+  uk: |
+    Біологія. Генетика. Біосинтез білка. Нуклеїнові кислоти. ДНК. Транскрипція. Інформаційна РНК (іРНК). Рибосома.

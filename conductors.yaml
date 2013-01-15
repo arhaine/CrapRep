@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: vV2bYBllfzo
+  ru: vV2bYBllfzo
+  uk: vV2bYBllfzo
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Conductors and dielectrics
+  ru: Проводники и диэлектрики
+  uk: Провідники та діелектрики
+
+description:
+  en: |
+    Conductors. Types of conductors. The simplest devices for charge measuring.
+    
+  ru: |
+    Проводники. Виды проводников. Простейшие устройства для регистрации заряда.
+
+  uk: |
+    Провідники. Види провідників. Простійші прилади для регістрації заряду.

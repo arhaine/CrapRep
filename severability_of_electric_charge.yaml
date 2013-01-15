@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: 3qV92OmOKMc
+  ru: 3qV92OmOKMc
+  uk: 3qV92OmOKMc
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Elementary electric charge
+  ru: Элементарный электрический заряд
+  uk: Елементарний електричний заряд
+
+description:
+  en: |
+    Electric charge. Minimal electric charge. Atomic structure. Electron, its mass and charge. The unit of measurement of the charge.
+    
+  ru: |
+    Электрический заряд. Существует ли минимальный электрический заряд. Строение атома. Электрон, его заряд и масса. Единица измерения заряда.
+
+  uk: |
+    Електричний заряд. Чи існує мінімальний електричний заряд. Будова атома. Електрон, його заряд та маса. Одиниця вимірювання заряду.

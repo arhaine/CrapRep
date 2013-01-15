@@ -1,0 +1,29 @@
+provider: youtube
+link:
+  en: Se_BZNYqvJc
+  ru: Se_BZNYqvJc
+  uk: Se_BZNYqvJc
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Electromagnetic induction
+  ru: Электромагнитная инукция
+  uk: Електромагнітна індукція
+
+description:
+  en: |
+    Electromagnetic induction is the production of an electric current across a conductor moving through a magnetic field. 
+    The rule of the screw. Vector of electromagnetic induction. Homogenous and inhomogenous magnetic fields. Faraday's law of induction.
+    
+  ru: |
+    Электромагнитная индукция — явление возникновения электрического тока в замкнутом контуре при изменении магнитного потока, проходящего через него. 
+    Правило буравчика. Вектор электромагнитной индукции. Однородное и неоднородное магнитное поле. Закон Фарадея.
+
+  uk: |
+    Електромагні́тна інду́кція — явище створення в просторi вихрового електричного поля змінним магнітним полем. 
+    Правило гвинта. Вектор електромагнітної індукції. Однорідне та неоднорідне магнітне поле. Закон Фарадея.

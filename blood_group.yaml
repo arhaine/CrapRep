@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: 1bTWgdqZ4lk
+  ru: 1bTWgdqZ4lk
+  uk: 1bTWgdqZ4lk
+
+languages:
+  - uk
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: Blood group
+  ru: Группы крови
+  uk: Групи крові
+
+description:
+  en: |
+    Blood group. Genotypes. Phenotypes.
+  ru: |
+    Группы крови. Генотипы. Фенотипы.
+  uk: |
+    Группы крови. Генотипы. Фенотипы.

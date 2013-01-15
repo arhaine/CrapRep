@@ -1,0 +1,28 @@
+﻿provider: youtube
+link:
+  en: pgEcoTCJw2M
+  ru: pgEcoTCJw2M
+  uk: pgEcoTCJw2M
+
+languages:
+  - en
+
+categories:
+  default: 1
+  physics: 1
+  inorganic: 1
+
+title:
+  en: Turn water into ice in seconds
+  ru: Превратить воду в лед в течение одной секунды
+  uk: Перетворити воду на лід за лічені секунди
+
+description:
+  en: |
+    For this experiment you wii need: sodium acetate, water, pan. Dissolve the sodium acetate in near boiling water until no more absorbs into the liquid. Pour into tray. Now touch it. Instant ice! The reaction is exothermic.
+   
+  ru: |
+    Физика. Для этого эксперимента вам понадобится: ацетат натрия, вода, кастрюля. Растворите ацетата натрия в кипящей воде. Налейте в лоток. Теперь прикоснитесь к раствору. Получился лед! Реакция является экзотермической.
+
+  uk: |
+    Фізика. Для цього експерименту вам знадобиться: ацетат натрію, вода, каструля. Розчиніть ацетат натрію в киплячій воді. Налийте в лоток. Тепер доторкніться до розчину. Вийшов лід! Реакція є екзотермічною.

@@ -1,0 +1,27 @@
+provider: youtube
+
+link:
+  en: iLoHx0XjuNo
+  ru: iLoHx0XjuNo
+  uk: iLoHx0XjuNo
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Learning to grow salt crystals
+  ru: Учимся выращивать кристаллы из солей
+  uk: Вчимося вирощувати кристали з солей
+
+description:
+  en: |
+     How to grow crystals of salt at home
+  ru: |
+    Как правильно выращивать кристаллы из солей в домашних условиях
+  uk: |
+    Як правильно вирощувати кристали з солей в домашніх умовах

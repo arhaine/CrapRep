@@ -1,0 +1,28 @@
+provider: youtube
+
+link:
+  en: qbUE3h35GrU
+  ru: qbUE3h35GrU
+  uk: qbUE3h35GrU
+
+languages:
+  - en
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Golden rain
+  ru: Золотой дождь
+  uk: Золотий дощ
+
+description:
+  en: |
+    The video shows a reaction that conduces to the formation of crystals of lead iodide crystals. Experience is called "golden rain", "golden vortex", "golden autumn". The crystals of this material were originally very small, they become large due to the slow cooling of the heated solution. Before heating a few ml of acetic acid is added to suppress the hydrolysis.
+  ru: |
+    Демонстрирую вам реакцию, которая приводит к образованию кристаллов иодида свинца, опыт имеет название "золотой дождь", "золотой вихрь", "золотая осень". Кристаллы этого вещества изначально очень мелкие, крупными они становятся в результате медленного охлаждения из нагретого раствора. Перед нагреванием для подавления гидролиза в раствор добавляется несколько мл уксусной кислоты.
+  uk: |
+    Демонструю вам реакцію, яка призводить до утворення кристалів иодида свинцю, досвід має назву "Золотий дощ", "золотий вихор", "золота осінь". Кристали цієї речовини спочатку дуже дрібні, великими вони стають в результаті повільного охолодження з нагрітого розчину. Перед нагріванням для пригнічення гідролізу в розчин додається декілька мл оцтової кислоти.
+

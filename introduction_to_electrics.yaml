@@ -1,0 +1,27 @@
+provider: youtube
+link:
+  en: OesUyAbsSrU
+  ru: OesUyAbsSrU
+  uk: OesUyAbsSrU
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Introduction to electrics
+  ru: Вступление в электрику 
+  uk: Вступ в електрику
+
+description:
+  en: |
+    Electrification of bodies on contact. The interaction of charged bodies. Two types of charges.
+    
+  ru: |
+    Электризация тел при соприкосновении. Взаимодействие заряженных тел. Два вида зарядов.
+
+  uk: |
+    Електризація тіл при дотику. Взаємодія заряджених тіл. Два типи зарядів.
+    

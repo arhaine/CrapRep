@@ -1,0 +1,28 @@
+provider: youtube
+link:
+  en: acHDOBG9L9A
+  ru: acHDOBG9L9A
+  uk: acHDOBG9L9A
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Electrical circuit and its components
+  ru: Электрическая цепь и ее составные части
+  uk: Електричне коло та його складові частини
+
+description:
+  en: |
+    Electrical circuit. Power source, power consumer. Additional control elements.
+    
+  ru: |
+    Электрическая цепь. Источник тока, потребители тока. Дополнительные элементы управления. 
+    Электрическая схема. Условные обозначения элементов электрической цепи.
+  
+  uk: |
+    Електричне коло. Джерело струму, споживач струму. Додатковы елементи керування. 
+    Електрична схема. Умовні позначення елементів електричного кола.

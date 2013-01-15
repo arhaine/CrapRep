@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: 3qV92OmOKMc
+  ru: 3qV92OmOKMc
+  uk: 3qV92OmOKMc
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Electric field
+  ru: Электрическое поле
+  uk: Електричне поле
+
+description:
+  en: |
+    Interaction of charges: how and why? Electric field and its properties.
+    
+  ru: |
+    Как и посредством чего происходит взаимодействие зарядов. Свойства электрического поля.
+
+  uk: |
+    Як і яким чином відбувається взаємодія зарядів. Властивості електричного поля.

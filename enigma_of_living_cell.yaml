@@ -1,0 +1,27 @@
+provider: youtube
+link:
+  en: f2vWqsLPP4Q
+  ru: f2vWqsLPP4Q
+  uk: f2vWqsLPP4Q
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: Enigma of living cell
+  ru: Загадки живой клетки
+  uk: Таємниці живої клітини
+
+description:
+  en: |
+    Immunity is in operation. Why does the organism reject the transplanted organs? Role of T-lymphocytes.
+  ru: |
+    Иммунитет в действии. Почему организм отторгает пересаженные органы? Роль Т-лимфоцитов.
+  uk: |
+    Імунітет у дії. Чому організм відторгає пересаджені органи? Роль Т-лімфоцитів.
+

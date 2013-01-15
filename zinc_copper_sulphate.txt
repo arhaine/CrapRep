@@ -1,0 +1,29 @@
+﻿provider: youtube
+link:
+  en: xfOFS2mGuw0
+  ru: xfOFS2mGuw0
+  uk: xfOFS2mGuw0
+
+languages:
+  - ru
+  - uk
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: NEED TRANSLATION 
+  ru: Цинк и медный купорос
+  uk: Цинк і мідний купорос
+
+description:
+  en: |
+    NEED TRANSLATION
+   
+  ru: |
+   Химия. Опыт. В стаканчик с пластинами цинка наливаем медный купорос. Происходит реакция замещения СuSO4+Zn=ZnSO4+Сu. 
+
+  uk: |
+   Хімія. Дослід. У скляночку з пластинами цинку наливаємо мідний купорос. Відбувається реакція заміщення СuSO4+Zn=ZnSO4+Сu. 

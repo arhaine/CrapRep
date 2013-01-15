@@ -1,0 +1,26 @@
+provider: youtube
+
+link:
+  en: cHGNsz0zFTU
+  ru: cHGNsz0zFTU
+  uk: cHGNsz0zFTU
+
+languages: ~
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: Nerve cell
+  ru: Нервная клетка
+  uk: Нервова клітина
+
+description:
+  en: |
+    Video demonstrates the activity nerve cells, transmission of nerve impulses. Demonstration is slowed down for visual expression.
+  ru: |
+    Анимационный ролик демонстрирует работу клеток нервов, передачу нервных импульсов. Демонстрация замедленна для наглядности.
+  uk: |
+    Анімаційний ролик демонструє роботу нервових клітин, передачу нервових імпульсів. Демонстрація уповільнена для наочності. 

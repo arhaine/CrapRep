@@ -1,0 +1,33 @@
+provider: youtube
+
+link:
+  en: FqX2YdnwtRc
+  ru: JuWwdugixEs
+  uk: JuWwdugixEs
+
+languages:
+  - ru
+
+categories:
+  default: 1
+
+title:
+  en: Why Pluto isn't a planet anymore?
+  ru: Почему Плутон больше не планета?
+  uk: Чому Плутон більше не планета?
+
+description:
+  en: |
+    Not a long time ago, our solar system had nine planets. But since 2006, Pluto is not listed among planets and is now called a minor planet.
+  
+    Why? Watch this video and find out!
+
+  ru: |
+    Совсем недавно, в нашей солнечной системе было девять планет. Но с 2006 года, Плутон перестали считать планетой и теперь он относится к группе планетоидов. 
+  
+    Почему? Посмотри это видео и узнай!
+
+  uk: |
+    Зовсім недавно, у нашій сонячній системі було девьять планет. Але з 2006 року, Плутон більше не вважають планетою і теперь він відносться до групи планетоїдів.
+  
+    Чому? Подивись це відео та дізнайся!

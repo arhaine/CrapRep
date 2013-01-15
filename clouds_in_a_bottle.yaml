@@ -1,0 +1,43 @@
+﻿provider: youtube
+link:
+  en: E8AvfXar9zs
+  ru: E8AvfXar9zs
+  uk: E8AvfXar9zs
+
+languages:
+  - en
+  - ru
+  - uk
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Making Clouds in a Bottle.
+  ru: Образование облака в бутылке.
+  uk: Утворення хмари в пляшці.
+
+description:
+  en: |
+    Experiments. Making Clouds in a Bottle. Materials: candle, matches, wood splints, 2 liter plastic  bottle with cap.
+
+    Put a little water in the bottle. Cap the bottle. Humidity will quickly reach 100 %.
+    During the squeeze pressure increases so does the temperature. When released, pressure drops. So does the temperature. 
+    Add just a little smoke. Repeat the squeezing. Now that condensation nuclei are present cloud droplets form 
+   
+  ru: |
+    Опыт. Образование облака в бутылке. Материалы: свеча, спички, деревянные палочки, 2-х литровая пластиковая бутылка с крышкой. 
+
+    Налейте немного воды в бутылку и закройте ее. Влажность быстро достигнет 100%. 
+    Во время сжатия увеличивается давление и темература. После освобождения давление падает, как и температура. 
+    Добавьте немного дыма и повторите давление - в бутылке образуется "облако".
+
+
+  uk: |
+    Дослід. Утворення хмари в пляшці. Матеріали: свічка, сірники, дерев'яні палички, 2-х літрова пластикова пляшка з кришкою. 
+
+    Налийте трохи води в пляшку і закрийте її. Вологість швидко досягне 100%. 
+    Під час стискування збільшується тиск і темература. Після звільнення тиск падає, як і температура. 
+    Додайте трохи диму і повторіть стискування - в пляшці утворюється "хмара".

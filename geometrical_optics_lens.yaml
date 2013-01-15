@@ -1,0 +1,26 @@
+provider: youtube
+
+link:
+  en: o_Gy_T82YP8
+  ru: o_Gy_T82YP8
+  uk: o_Gy_T82YP8
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Geometric optics. Lens
+  ru: Геометрическая оптика. Линзы
+  uk: Геометричка оптика. Лінзи
+
+description:
+  en: |
+    Lens. How lens refract light. Collecting lens. Diverging lens. Main optical axis. Lens focus. Reversibility of light rays. Lens properties in different enviroments.
+  ru: |
+    Линзы. Как линзы преломляют свет. Собирающие линзы. Рассеивающие линзы. Главная оптическая ось. Фокус линзы. Обратимость световых лучей. Свойства линз в различных средах.
+  uk: |
+    Лінзи. Як лінзи заломлюють світло. Фокусуюча лінза. Розсіююча лінза. Головна оптична вісь. Фокус лінзи. Оборотність світлових променів. Властивості лінз у різних середовищах.

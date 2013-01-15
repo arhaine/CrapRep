@@ -1,0 +1,26 @@
+provider: youtube
+link:
+  en: 0wL-A71H310
+  ru: 0wL-A71H310
+  uk: 0wL-A71H310
+
+languages:
+  - ru
+categories:
+  default: 1
+  physics: 1
+
+title:
+  en: Ohm's law
+  ru: Закон Ома для участка цепи 
+  uk: Закон Ома для ділянки кола
+
+description:
+  en: |
+    Ohm's law states that the current through a conductor between two points is directly proportional to the potential difference across the two points.
+    
+  ru: |
+    Зако́н О́ма — физический закон, определяющий связь электродвижущей силы источника или электрического напряжения с силой тока и сопротивлением проводника.
+
+  uk: |
+    Зако́н О́ма — фізичний закон, що визначає зв'язок электрорушійної сили джерела або єлектричної напруги з силоую струму і опором провідника.

@@ -1,0 +1,27 @@
+provider: youtube
+link:
+  en: BE4v9FsjGoM
+  ru: DV4s6sV4dJU
+  uk: DV4s6sV4dJU
+
+languages:
+  - ru
+  - en
+
+categories:
+  default: 1
+
+title:
+  en: Universe. The Moon
+  ru: Вселенная. Луна
+  uk: Всесвіт. Місяць
+
+description:
+  en: |
+    The Moon - Earth's only satellite. Current and past theories about the Moon's formation. How Moon affects the Earth. Moon as the only cosmic body human beigns have ever visited. 
+    
+  ru: |
+    Луна - единственный спутник Земли. Современные и прошлые теории об образовании Луны. Как Луна влияет на Землю. Луна, как единственное космическое тело, на котором когда-либо были люди.
+
+  uk: |
+    Місяць - єдиний супутник Землі. Сучасні та минулі торії про походження Місяця. Як Місяць впливає на Землю. Місяц, як єдине космічне тіло, на якому коли-небудь були люди.

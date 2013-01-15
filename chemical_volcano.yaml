@@ -1,0 +1,29 @@
+provider: youtube
+
+link:
+  en: DD6uh01X7Gg
+  ru: DD6uh01X7Gg
+  uk: DD6uh01X7Gg
+
+languages:
+  - en
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Cool Chemical Volcano
+  ru: Химический вулкан
+  uk: Хімічний вулкан
+
+description:
+  en: |
+    It's classic chemistry experiment. Orange substance - Ammonium Dichromate.
+  ru: |
+    Это классический химический опыт. Оранжевое вещество – дихромат аммиака.
+  uk: |
+    Це класичний хімічний досвід. Помаранчева речовина - дихромат аміаку.
+
+ 

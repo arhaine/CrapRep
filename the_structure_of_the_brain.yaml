@@ -1,0 +1,30 @@
+provider: youtube
+
+link:
+  en: AKfKGZS7c4M
+  ru: AKfKGZS7c4M
+  uk: AKfKGZS7c4M
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+  cytology: 1
+
+title:
+  en: >
+    The structure of the brain: neurons
+  ru: >
+    Строение головного мозга: нейроны
+  uk: >
+    Будова головного мозку: нейрони
+
+description:
+  en: |
+    Let’s study neurons of different brain divisions and the interaction of neurons.
+  ru: |
+    Изучаем нейроны различных отделов головного мозга и взаимодействие нейронов.
+  uk: |
+    Вивчаємо нейрони різних відділів головного мозку і взаємодію нейронів.

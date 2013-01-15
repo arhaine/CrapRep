@@ -1,0 +1,30 @@
+﻿provider: youtube
+link:
+  en: 1Kh5FpSWVMo
+  ru: 1Kh5FpSWVMo
+  uk: 1Kh5FpSWVMo
+
+languages:
+  - en
+  - ru
+  - uk
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Chemistry experiment. Coloured flask.
+  ru: Химический опыт. Цветная колба. 
+  uk: Хімічний дослід. Кольорова колба.
+
+description:
+  en: |
+    Chemistry experiment "Coloured flask". Ingredients: Sugar+NaOH and KMnO4.
+   
+  ru: |
+    Химия. Опыт "Цветная колба". Ингридиенты: сахар + NaOH и KMnO4. 
+
+  uk: |
+    Хімія. Дослід "Кольорова колба". Складові: цукор + NaOH и KMnO4. 

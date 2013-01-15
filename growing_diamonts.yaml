@@ -1,0 +1,27 @@
+provider: youtube
+
+link:
+  en: vep-rJHgwOs
+  ru: vep-rJHgwOs
+  uk: vep-rJHgwOs
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  chemistry: 1
+  inorganic: 1
+
+title:
+  en: Growing big diamonds in laboratory
+  ru: Выращивание крупных алмазов в лаборатории
+  uk: Вирощування великих алмазів в лабораторії
+
+description:
+  en: |
+    A documental film about growing up and diamond-cutting in the factory.
+  ru: |
+    Документальный фильм о выращивании и огранке бриллиантов в заводских условиях.
+  uk: |
+    Документальний фільм про вирощування і ограновування діамантів у заводських умовах.

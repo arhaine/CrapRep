@@ -1,0 +1,25 @@
+﻿provider: youtube
+link:
+  en: kHSU3MxRuYc
+  ru: kHSU3MxRuYc
+  uk: kHSU3MxRuYc
+
+languages:
+  - ru
+
+categories:
+  default: 1
+  biology: 1
+
+title:
+  en: Cell cycle. Mitosis
+  ru: Клеточный цикл. Митоз
+  uk: Клітинний цикл. Мітоз
+
+description:
+  en: |
+    Cell cycle. Interphase. Mitosis and its phases. Prophase. Metaphase. Anaphase. Telophase. The importance of mitosis.
+  ru: |
+    Клеточный цикл. Интерфаза. Митоз и его фазы. Профаза. Метафаза. Анафаза. Телофаза. Значение митоза.
+  uk: |
+    Клітинний цикл. Інтерфаза. Мітоз та його фази. Профаза. Метафаза. Анафаза. Телофаза. Значення мітозу.
