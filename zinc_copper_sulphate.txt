@@ -21,7 +21,7 @@ title:
 
 description:
   en: |
-    Chemistry. Experiment. We pour copper sulfate to the glass with tje zinc plates. Substitution reaction occurs: SuSO4 + Zn = ZnSO4 + Cu.
+    Chemistry. Experiment. We pour the copper sulfate to the glass with the zinc plates. Substitution reaction occurs: SuSO4 + Zn = ZnSO4 + Cu.
    
   ru: |
    Химия. Опыт. В стаканчик с пластинами цинка наливаем медный купорос. Происходит реакция замещения СuSO4+Zn=ZnSO4+Сu. 
