@@ -5,6 +5,7 @@ link:
   uk: xfOFS2mGuw0
 
 languages:
+  - en
   - ru
   - uk
 
@@ -14,13 +15,13 @@ categories:
   inorganic: 1
 
 title:
-  en: NEED TRANSLATION 
+  en: Zinc and copper sulfate
   ru: Цинк и медный купорос
   uk: Цинк і мідний купорос
 
 description:
   en: |
-    NEED TRANSLATION
+    Chemistry. Experiment. We pour copper sulfate to the glass with tje zinc plates. Substitution reaction occurs: SuSO4 + Zn = ZnSO4 + Cu.
    
   ru: |
    Химия. Опыт. В стаканчик с пластинами цинка наливаем медный купорос. Происходит реакция замещения СuSO4+Zn=ZnSO4+Сu. 
